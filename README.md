@@ -1,4 +1,4 @@
-Simple Online Course Website
+Simple Online Course Website,
 This website is a minimalist online platform built using HTML, CSS, and JavaScript. It offers a straightforward interface for users to explore and purchase courses, as well as provide feedback.
 
 Features
